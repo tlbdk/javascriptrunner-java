@@ -1,5 +1,7 @@
 package dk.nversion.javascriptrunner;
 
+// Links: http://ovaraksin.blogspot.se/2011/05/testing-client-server-communication.html
+
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.IOException;
 import javax.script.Invocable;
