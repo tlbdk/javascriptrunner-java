@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: dk.nversion.javascriptrunner.JavaScriptRunnerTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.97 sec
